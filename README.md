@@ -1,2 +1,2 @@
 # sophos-speedtest
-Make a speedtest with sophos using the CLI
+Make a speedtest with sophos XG Firewall using the CLI
